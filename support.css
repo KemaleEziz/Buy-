@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+.top {
+    margin-top: 30px;
+    height: 500px;
+    /* background-color: #f5f7f3" */
+    
+   
+}
+  .Navbar {
+    background-color: #51b5c4;
+    border: 1px solid #51b5c4;
+    border-radius: 0px 0px 30px 30px;
+    width: 100%;
+    
+  }
+  .Navbar span {
+    color: white;
+    display: block;
+    font-size: 13px;
+   
+  }
+  .Navbar .dots {
+    color: black;
+   font-size: 30px;
+  }
+  .Navbar .user{
+    color: black;
+    font-size: 22px;
+    padding-top: 8px;
+  
+  }
+  .Navbar ul {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+  }
+  .Support {
+    color: white;
+    font-size: 27px;
+    font-weight: 700;
+  }
+  .row1{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    width: 95% !important;
+    margin: auto;
+  }
+
+  .top-span{
+    font-weight: bold;
+    display: block;
+    font-size: 13px;
+  }
+  .btn{
+    background-color: #51b5c4;
+    border: 1px solid #51b5c4;
+    width: 180px;
+    height: 45px;
+    border-radius: 22px;
+    color: white;
+    font-weight: bold;
+    
+  }
+  .button-div{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .row2{
+    padding: 0px;
+    margin: 0px;
+   width: 95%;
+    
+  }
+  .th{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+ }
+ .th th{
+    font-weight: bold;
+    
+ }
+  .dot{
+    color: white;
+  }
+  .table{
+    background-color: white;
+    
+  }
+  .tr{
+   
+    border-color: #e4f7f2;
+
+    
+  }
+  .tr td{
+    font-weight: bold;
+  }
+ .td{
+  border-right-color: grey;
+ }
+ .row3{
+  border: 1px solid white;
+  border-radius: 10px;
+  /* overflow: hidden; */
+
+ }
+ 

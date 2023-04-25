@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+  }
+  .top {
+    margin-top: 30px;
+    height: auto;
+    background-color: #f3f7f6;
+  }
+  /*  */
+  .Home-Page {
+    color: white;
+    font-size: 27px;
+    font-weight: 700;
+    padding-left: 25px;
+  }
+  
+  /* columns */
+  
+  .container2 {
+  
+    padding: 0px;
+    height: auto;
+    /* background-color: #f3f7f6; */
+  }
+  .Company-name {
+    border: 1px solid grey;
+    border-radius: 20px;
+    height: 145px;
+    background-color: white;
+    padding-top: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+  }
+  .Company-name h5 {
+   
+    font-weight: bold;
+  }
+  .Company-name span {
+ 
+    font-size: 11px;
+    font-weight: bolder;
+    
+  }
+  .logo {
+    background-color: rgb(190, 225, 242) !important;
+    width: 60px !important;
+    height: 70px !important;
+    height: auto;
+    object-fit: contain;
+    border: 1px solid rgb(168, 163, 163);
+    border-radius: 18px;
+    margin-top: 15px;
+  }
+  .little-columns {
+  margin-bottom: 10px;
+    border-radius: 18px;
+    text-align: center;
+    height: 145px;
+    width: 115px;
+    background-color: white;
+   
+  }
+  .Total-Licenses{
+    padding-top: 20px;
+     margin-bottom: 0px;
+  }
+  .little-columns p {
+  
+    text-align: center;
+    font-weight: 900;
+  }
+  .little-columns span {
+    font-size: 35px;
+    font-weight: 900;
+  }
+  
+  .little-columns a {
+    text-decoration: none;
+    color:black ;
+  }
+  
+  .registration{
+    border: 1px solid white;
+    border-radius: 18px;
+    /* height: 260px; */
+    width: 100%;
+    background-color: white;
+  }
+  .footer{
+   
+    height: 260px;
+    background-color: white;
+  }
+  
+
+  
+  
+  
