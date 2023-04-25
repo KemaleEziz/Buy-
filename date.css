@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif!important;
+}
+.data{
+    padding: 0px 20px;
+}
+.data h6{
+    text-align: center;
+    font-weight: 700;
+}
+.data p{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 14px;
+}
+.data span{
+    font-size: 14px;
+   
+}
+.order{
+    display: flex;
+    justify-content: space-between;
+}
+.expiry{
+    display: flex;
+    justify-content: space-between;
+}

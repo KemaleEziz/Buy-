@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif!important;
+}
+.user{
+    padding: 0px 20px;
+}
+.user h6{
+    text-align: center;
+    font-weight: 700;
+}
+.user p{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 14px;
+}
+.user span{
+    font-size: 14px;
+   
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+.active{
+    display: flex;
+    justify-content: space-between;
+}
